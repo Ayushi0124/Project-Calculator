@@ -75,5 +75,22 @@ elif C == 'tanh': # tanh means hyperbolic tangent in python
 elif C == 'asinh': # asinh means inverse hyperbolic sine in python
     import math
     print(math.asinh(A))
-else:
+elif C == 'Fibonacci' : 
+    n = int("Enter the number of terms:")
+    a = 0
+    b = 1
+     for i in range(n):
+         print(a, end="")
+         a,b = a+b
+elif C == 'prime':
+   n=int(input('Enter a number:'))
+    if n>1:
+    for i in range(2,n):
+        if n % i == 0:
+            print('Not a prime number')
+            break
+        else:
+            print('Prime number")
+        else:
+            print('Not a prime number')
     print("Something went wrong, please check your input and try again.")
