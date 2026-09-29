@@ -1,31 +1,53 @@
-# Project-Calculator
+. INTRODUCTION 
+Project-CALCULATOR is a python-based command- line calculator.It performs basic arithmetic operations as well as several mathematical and scientific calculators.
+The project is desined as a simple calculator where the user enters two numbers and selects an operation.
+   
+   
+   2. FEATURES
+The calculator supports following operations:
+  -Addition(+)
+  -Subtraction(-)
+  -Multiplication(*)
+  -Division(/)
+  -Modulus(%)
+  -Exponentiation(**)
+  -Floor Division(//)
+  -Square root
+  -Logarithm
+  -Sine
+  -Cosine
+  -Tangent
+  -Factroial
+  -GCD
+  -LCM
+  -Absolute Value
+  -Round
+  -Ceiling
+  -Floor
+  -Degrees
+  -Radians
+  -Exponentials
+   
 
-A basic Python command-line calculator that performs arithmetic and scientific mathematical operations.
+   3. TECHNOLOGIES USED
+   -Python 3
+   -Python Math Module
+   -Visual Studio Code
 
-## 1. Features
-- Addition, subtraction, multiplication and division
-- Modulus, power and floor division
-- Square root and logarithms
-- Trigonometric functions
-- Factorial, GCD and LCM
-- Rounding and other mathematical operations
 
-## 2. Technologies Used
-- Python 3
-- Python Math Module
-- Visual Studio Code
+   4. REQUIREMENTS
+   -Python 3.x
+   -Nothing extra required
+   -Open the terminal in the project folder and run:
+      'python Project-CALCULATOR.py'
 
-## 3. Requirements
-- Python 3.x
-- No external libraries required
 
-## 4. How to Run
-1. Install Python 3.x.
-2. Open the project folder in VS Code.
-3. Open the terminal.
-4. Run:
-   python Project-CALCULATOR.py
-5. Enter the numbers and operation when asked.
-
-## 5. Project Type
-Command-line Python application.
+    5. HOW TO RUN
+     -Install Python 3.x
+     -Open the project folder in vs code.
+     -Open the terminal.
+     -Run
+     -Enter the numbers and operations when asked
+        
+        
+           ***THANK YOU***
