@@ -24,7 +24,7 @@ A basic Python command-line calculator that performs arithmetic and scientific m
 2. Open the project folder in VS Code.
 3. Open the terminal.
 4. Run:
-   `python Project-CALCULATOR.py`
+   python Project-CALCULATOR.py
 5. Enter the numbers and operation when asked.
 
 ## 5. Project Type
