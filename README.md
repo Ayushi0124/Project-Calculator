@@ -41,5 +41,4 @@ The calculator supports following operations:
      -Run
      -Enter the numbers and operations when asked
         
-        
-           THANK YOU
+THANK YOU
