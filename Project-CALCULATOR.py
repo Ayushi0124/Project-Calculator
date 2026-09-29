@@ -1,5 +1,5 @@
-A = int(input('Enter the first number : '))
-B = int(input('Enter the second number : '))
+A = int(input('Enter first number : '))
+B = int(input('Enter second number : '))
 C = input('Enter your operation : ')
 if C == '+':
     print(A + B)
@@ -76,7 +76,7 @@ elif C == 'asinh': # asinh means inverse hyperbolic sine in python
     import math
     print(math.asinh(A))
 elif C == 'Fibonacci' : 
-    n = int("Enter the number of terms:")
+    n = int("Enter number of terms:")
     a = 0
     b = 1
      for i in range(n):
@@ -93,4 +93,4 @@ elif C == 'prime':
             print('Prime number")
         else:
             print('Not a prime number')
-    print("Something went wrong, please check your input and try again.")
+    print("Something went wrong please check your input and try again.")
