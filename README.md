@@ -1,7 +1,7 @@
-1. INTRODUCTION 
+INTRODUCTION 
 Project-CALCULATOR is a python-based command- line calculator.It performs basic arithmetic operations as  well as several mathematical and scientific calculators.
 The project is desined as a simple calculator where the user enters two numbers and selects an operation.
- 2. FEATURES
+    FEATURES
 The calculator supports following operations:
   -Addition(+)
   -Subtraction(-)
@@ -29,12 +29,12 @@ The calculator supports following operations:
    -Python 3
    -Python Math Module
    -Visual Studio Code
-4. REQUIREMENTS
+   REQUIREMENTS
    -Python 3.x
    -Nothing extra required
    -Open the terminal in the project folder and run:
       'python Project-CALCULATOR.py'
-5. HOW TO RUN
+   HOW TO RUN
      -Install Python 3.x
      -Open the project folder in vs code.
      -Open the terminal.
